@@ -1,65 +1,95 @@
 # KINGAI Security
 
-**Modern endpoint protection for a world where threats move faster than traditional security habits.**
+**Security that feels simple. Protection designed to grow smarter.**
 
-KINGAI Security is the security product family of the KING AI ecosystem. It is being built to make endpoint protection easier to understand, easier to use and increasingly intelligent across personal computers, business devices and future connected environments.
+Official product: https://security.kingai.work/  
+KING AI: https://www.kingai.work/  
+Business & partnerships: vip@kingai.work
 
-## Why KINGAI Security
+This public repository is a **commercial and product-information showcase only**. It intentionally contains no product source code, internal architecture, deployment instructions, security implementation details, private APIs, credentials, detection logic, algorithms or sensitive technical documentation.
 
-Security software often forces users to choose between simplicity and visibility. KINGAI Security is designed around a different goal: **strong protection should feel understandable, calm and lightweight.**
+## English
 
-The product direction combines:
+### A security product people can actually understand
 
-- fast file and application scanning;
-- real-time protection workflows;
-- suspicious-behavior and reputation analysis;
-- quarantine and protection history;
-- safer update and recovery experiences;
-- multilingual, consumer-friendly security UI;
-- a long-term path toward intelligent threat analysis and broader endpoint defense.
+KINGAI Security is being built around a simple idea: strong protection should not require users to become security engineers. The product experience focuses on clear status, understandable findings, confident next actions and a path from everyday protection toward a broader intelligent security platform.
 
-## Built for people first
+Today’s product direction centers on practical protection experiences such as file and application safety, threat findings, quarantine and recovery, safer updates and a cross-platform product foundation. Longer-term directions include richer reputation signals, behavior-aware intelligence, privacy-conscious recommendations, managed endpoint protection and broader device coverage where platform permissions allow.
 
-A user should be able to answer three questions immediately:
+### Why users should care
 
-1. Am I protected?
-2. Was anything dangerous found?
-3. What should I do next?
+Security products often fail in one of two ways: they overwhelm users with warnings, or they hide too much behind a single status indicator. KINGAI Security aims for a better middle ground.
 
-KINGAI Security is designed to make those answers visible without requiring users to become security engineers.
+- **Simple first:** users should understand whether they are protected and what action is needed.
+- **Evidence over panic:** findings should help people make decisions instead of generating fear.
+- **Recovery matters:** isolation, review and restore are part of the product experience, not afterthoughts.
+- **Privacy-aware direction:** intelligent protection should minimize unnecessary exposure of sensitive data.
+- **Cross-platform ambition:** the long-term opportunity is a security layer that follows users and organizations across supported devices.
+- **Ecosystem advantage:** security can become a trust layer across KING AI products rather than an isolated utility.
 
-## Product opportunity
+### Product experiences
 
-The long-term product family can grow across:
+**Personal protection** — A cleaner way to understand suspicious files, applications and security findings.
 
-- free personal protection;
-- premium consumer security;
-- small-business endpoint protection;
-- managed security and enterprise endpoint visibility;
-- security intelligence shared with other approved KING AI products;
-- future mobile, edge and device-security experiences.
+**Small-business protection direction** — Easier visibility for organizations that want stronger protection without building an internal security team.
 
-These are product directions. Availability varies by platform and release stage.
+**Intelligent recommendations direction** — Future recommendations can combine multiple risk signals while keeping decisions explainable and controlled.
 
-## Part of KING AI
+**Managed security opportunity** — Over time, the product can expand toward organization-wide endpoint visibility, managed protection and strategic device/OEM partnerships.
 
-KINGAI Security is a core KING AI ecosystem product alongside SEA, KINGAIBOT, KINGAI OS, KINGAI OPS, KINGAI Office, Customer OS, Online Tools and the digital-life product family.
+### From product to platform
 
-KING AI: https://www.kingai.work  
-Business & partnership: **vip@kingai.work**
+The long-term opportunity is bigger than a traditional antivirus utility. KINGAI Security can become the security and trust layer for an intelligent product ecosystem: personal computing, AI-native work, operations, agents and connected devices.
 
-## Public repository purpose
+Potential commercial paths include consumer premium protection, business editions, managed security, enterprise support, device/OEM relationships and strategic licensing. These are commercial directions and not claims of current revenue, customers or partnerships.
 
-This repository is for public product information, roadmap, customer-safe facts, business information and SEO/GEO discovery. Proprietary production source, private security implementation, credentials, internal detection logic and sensitive infrastructure are not published here.
+### Why it belongs in KING AI
 
----
+As AI systems gain more memory, automation and access to real work, security becomes more important, not less. KINGAI Security gives the ecosystem a dedicated product surface for trust, protection and user confidence while the wider KING AI platform focuses on intelligence, productivity, operations and digital experiences.
 
-# 中文
+### Explore the ecosystem
 
-**KINGAI Security** 是 KING AI 主生态的终端安全与杀毒产品。
+- KING AI: https://www.kingai.work/
+- KINGAI OS: https://os.kingai.work/
+- KINGAI Office: https://office.kingai.work/
+- KINGAI OPS: https://ops.kingai.work/
+- KING AI Customer OS: https://kefu.kingai.work/
+- KING AI Online Tools: https://tools.kingai.work/
 
-它的目标不是把复杂安全术语堆给普通用户，而是让用户一眼看懂：**现在是否安全、发现了什么、下一步该做什么。**
+## 中文
 
-产品正在围绕快速扫描、实时保护、可疑行为分析、隔离区、保护历史、安全更新和更简单的中英文体验持续发展。
+### 让安全软件真正让普通用户看得懂
 
-长期方向覆盖个人免费安全、消费者高级版、小企业终端保护、企业安全与更多设备平台。未来方向会明确作为路线图展示，不将尚未完成的能力写成已经全面上线。
+KINGAI Security 的核心方向很简单：强大的安全能力不应该要求用户先成为安全专家。产品体验围绕清楚的状态、容易理解的风险、明确的下一步操作，以及从日常安全逐步演进到更广泛智能安全平台的能力展开。
+
+当前产品方向聚焦文件与应用安全、威胁发现、隔离与恢复、安全更新和跨平台基础。更长期的方向包括信誉情报、行为智能、隐私友好的智能建议、企业终端管理和在平台权限允许下扩展到更多设备。
+
+### 产品优势
+
+- **简单优先：** 用户应该快速知道“现在是否安全、出了什么问题、下一步做什么”。
+- **用证据代替恐慌：** 风险提示应该帮助判断，而不是制造大量无意义警报。
+- **恢复同样重要：** 隔离、复查、恢复必须是完整体验的一部分。
+- **隐私意识：** 更聪明的保护不应该建立在无边界暴露用户数据之上。
+- **跨平台长期方向：** 未来希望形成覆盖支持设备的持续安全层。
+- **生态优势：** Security 可以成为 KING AI 全产品体系共同的可信基础。
+
+### 用户场景
+
+**个人安全保护** —— 更简单地理解下载文件、应用和安全风险。
+
+**小型企业安全方向** —— 让没有专业安全团队的企业也能够获得更清楚的终端保护与管理体验。
+
+**智能建议方向** —— 未来综合多类风险信号提供更可解释、更受控的建议。
+
+**托管安全机会** —— 随产品成熟进一步延伸到企业设备、托管安全、OEM 与战略合作。
+
+### 商业化空间
+
+KINGAI Security 长期可以探索个人高级版、企业版、托管安全、企业支持、设备/OEM 合作与战略授权。以上属于商业方向，不代表已经产生相应收入、客户或合作关系。
+
+### KING AI 生态
+
+随着 AI 拥有更长期的记忆、自动化能力和真实工作权限，安全只会变得更加重要。KINGAI Security 负责为整个 KING AI 生态提供独立的安全与可信产品入口。
+
+**Learn more:** https://security.kingai.work/  
+**Business:** vip@kingai.work

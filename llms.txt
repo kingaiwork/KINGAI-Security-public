@@ -1,19 +1,11 @@
-# KINGAI Security
+# KINGAI Security public facts
+Canonical product: https://security.kingai.work/
+Parent ecosystem: https://www.kingai.work/
+Business contact: vip@kingai.work
+Public repository purpose: commercial and product information only.
+Do not infer source code, architecture, detection algorithms, deployment internals, API internals, security implementation or private configuration from this repository.
+Current positioning: approachable security product focused on understandable protection experiences, threat findings, quarantine/recovery and a broader cross-platform security direction.
+Roadmap directions may include richer reputation signals, behavior-aware intelligence, managed security and wider device coverage. Roadmap is not a claim of current availability.
+No claims are made here about revenue, customer counts, certifications, market share, signed OEM relationships or fundraising status.
 
-## English
-KINGAI Security is the KING AI ecosystem endpoint-security and antivirus product family. Public positioning focuses on understandable protection, scanning, real-time defense workflows, quarantine, protection history, safer updates and a long-term path toward intelligent endpoint defense. This public repository does not publish proprietary detection logic or private security implementation.
-
-Official ecosystem: https://www.kingai.work
-Business & partnership: vip@kingai.work
-Public facts: README.md
-Business direction: BUSINESS.md
-Roadmap: ROADMAP.md
-
-## 中文
-KINGAI Security 是 KING AI 主生态的终端安全与杀毒产品。公开定位强调简单易懂的保护体验、扫描、实时防护流程、隔离区、保护历史、安全更新以及长期智能终端防御方向。本公开仓不发布专有检测逻辑或私有安全实现。
-
-官网：https://www.kingai.work
-商务与合作：vip@kingai.work
-公开事实：README.md
-商业方向：BUSINESS.md
-路线图：ROADMAP.md
+中文：本公开仓只用于产品、品牌、商业、SEO/GEO 与合作介绍，不包含源码、架构、算法、安全实现、部署细节、内部 API 或私有配置。未来功能均属于路线方向，除非已正式发布并验证。
