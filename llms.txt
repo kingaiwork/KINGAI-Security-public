@@ -1,0 +1,19 @@
+# KINGAI Security
+
+## English
+KINGAI Security is the KING AI ecosystem endpoint-security and antivirus product family. Public positioning focuses on understandable protection, scanning, real-time defense workflows, quarantine, protection history, safer updates and a long-term path toward intelligent endpoint defense. This public repository does not publish proprietary detection logic or private security implementation.
+
+Official ecosystem: https://www.kingai.work
+Business & partnership: vip@kingai.work
+Public facts: README.md
+Business direction: BUSINESS.md
+Roadmap: ROADMAP.md
+
+## 中文
+KINGAI Security 是 KING AI 主生态的终端安全与杀毒产品。公开定位强调简单易懂的保护体验、扫描、实时防护流程、隔离区、保护历史、安全更新以及长期智能终端防御方向。本公开仓不发布专有检测逻辑或私有安全实现。
+
+官网：https://www.kingai.work
+商务与合作：vip@kingai.work
+公开事实：README.md
+商业方向：BUSINESS.md
+路线图：ROADMAP.md
