@@ -1,5 +1,6 @@
 name: Public Actions Control Probe
 
+# Temporary diagnostic generation 2.
 on:
   pull_request:
     paths:
