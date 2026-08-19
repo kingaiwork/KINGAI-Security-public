@@ -1,6 +1,9 @@
 name: Public Actions Control Probe
 
 on:
+  pull_request:
+    paths:
+      - '.github/workflows/actions-control-probe.yml'
   push:
     branches: [main]
     paths:
